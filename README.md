@@ -1,4 +1,4 @@
-# Hi there, I'm @Rasoolattar17 👋
+# Hi there, I'm Rasool Attar
 
 I am a fullstack web developer with 3 years of experience. 
 I have a strong passion for creating efficient and scalable web applications, 
