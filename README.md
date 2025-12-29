@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rasool Attar
 
-🎯 A passionate **DevOps & Full Stack Engineer** with **3.8 years of experience**, specializing in:
+🎯 A passionate **DevOps & Full Stack Engineer** with **4 years of experience**, specializing in:
 - CI/CD pipelines, cloud infrastructure automation, and DevOps practices (2 years)
 - Moodle LMS and full stack web application development (2 years)
 
